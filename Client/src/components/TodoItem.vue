@@ -69,7 +69,7 @@
 				if (good) {
 					this.dismissCountDown = 0;
 					this.dismissCountDownGood = this.dismissSecs;
-					this.textAlert = 'Task successfully removed';
+					this.textAlert = 'Задача успешно удалена';
 				}
 				else {
 					this.dismissCountDownGood = 0;
@@ -78,7 +78,7 @@
 				}
 			},
             async removeTodoClicked(id) {
-                if (!confirm('Are you sure?')) {
+                if (!confirm('Вы уверены?')) {
                     return;
                 }
                 this.loading = true;

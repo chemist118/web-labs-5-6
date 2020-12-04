@@ -1,13 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c871d9f-5c6e-419d-b1eb-d0d8b0dc8229" name="Default Changelist" comment="" />
+    <list default="true" id="0c871d9f-5c6e-419d-b1eb-d0d8b0dc8229" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/a2ef17ec5d25597a170c8c5a241b2a7f.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/a2ef17ec5d25597a170c8c5a241b2a7f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/b80edc01dad745a0ce45f3c92a9b3d16.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/b80edc01dad745a0ce45f3c92a9b3d16.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/d01a13f8e747b9ad5013bf15da5e7cb1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/d01a13f8e747b9ad5013bf15da5e7cb1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/db527835303f1ba84229aa3e6fc838c3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/db527835303f1ba84229aa3e6fc838c3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/ea5d5cbc899db5ac2ce3b42d307ff5a0.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/ea5d5cbc899db5ac2ce3b42d307ff5a0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/fbfff64d7b395e2c9d7eeb3f6db3c11a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/babel-loader/fbfff64d7b395e2c9d7eeb3f6db3c11a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/0a9b1aedfb7c2c3ac6cd3c3b7d4f984e.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/0a9b1aedfb7c2c3ac6cd3c3b7d4f984e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/13513a3c77331f6ffc1473e5f02c39e1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/13513a3c77331f6ffc1473e5f02c39e1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/354a519c1a1fa66020968e36290c8d0c.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/354a519c1a1fa66020968e36290c8d0c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/379ec6f8be56aa9210332dba21bf8660.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/379ec6f8be56aa9210332dba21bf8660.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/39539dbe5ddd42ab8176a806823a2dec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/39539dbe5ddd42ab8176a806823a2dec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/3cd522753e3fb284c078996ec0bbc0df.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/3cd522753e3fb284c078996ec0bbc0df.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/40af3d87375e989a36023c03739d8184.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/40af3d87375e989a36023c03739d8184.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/593712dc231aa0002ba35565b834feb8.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/593712dc231aa0002ba35565b834feb8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/60eb1b1d31e97cbb8ffa5428b428aa9a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/60eb1b1d31e97cbb8ffa5428b428aa9a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/62380a133a65eead743122609eb8dd64.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/62380a133a65eead743122609eb8dd64.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/634890e011c2b56c1100150bf6301abb.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/634890e011c2b56c1100150bf6301abb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/6de29abce433ee66629d7f9b41bbd1bc.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/6de29abce433ee66629d7f9b41bbd1bc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/71a6c696c3cdda509cd6db8afd0e2a7a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/71a6c696c3cdda509cd6db8afd0e2a7a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/768051f299e17354b744cb1fc8b9fe7c.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/768051f299e17354b744cb1fc8b9fe7c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/7820ae0c86b2c20ba1fd05a0375f75ee.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/7820ae0c86b2c20ba1fd05a0375f75ee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/7e0bf3aff0833976f33899d98fa96352.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/7e0bf3aff0833976f33899d98fa96352.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/8d578402f8d33df545e6f97ca1c7e142.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/8d578402f8d33df545e6f97ca1c7e142.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/91734e0eb1c270d67639df135e74abbd.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/91734e0eb1c270d67639df135e74abbd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/b96b9e653c52e279ca35923fb4204e48.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/b96b9e653c52e279ca35923fb4204e48.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/c9a4f57c40fd0650384844c5d18418f0.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/c9a4f57c40fd0650384844c5d18418f0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/c9b0cecd48909c40a685d56caff7001a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/c9b0cecd48909c40a685d56caff7001a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/cefc012202778679d107693ad8552dfb.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/cefc012202778679d107693ad8552dfb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/d7dad86ae57cbbafb58aa88393f81c99.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/d7dad86ae57cbbafb58aa88393f81c99.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/e3d09e955f06dbc8a5147b62a614878a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/e3d09e955f06dbc8a5147b62a614878a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/f8b36a5cdd11de0f33b4ee1ce41953d4.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/f8b36a5cdd11de0f33b4ee1ce41953d4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/fd53382996ba27fea62a2ff9b577863e.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/fd53382996ba27fea62a2ff9b577863e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/fe93b039407e6b229b2947b76d929a32.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/node_modules/.cache/vue-loader/fe93b039407e6b229b2947b76d929a32.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/components/FiltersTodo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/components/FiltersTodo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/components/TodoItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/components/TodoItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/storage/database.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1l8UWVqMdhmBtmMXY2yI74FZ6p6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -67,29 +111,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606984839015" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1607004317146">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1607056026530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607004317146" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1607004317146">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607056026530" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1607056026530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607004317146" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1607004317146">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607056026530" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1607056026529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607004317146" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1607004317146">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607056026529" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1607056026530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607004317146" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607056026530" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1606984895787">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606984895787" />
-    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1607002074231">
+    <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1607056146503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607002074231" />
+    <state x="656" y="118" width="607" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607056146503" />
   </component>
 </project>

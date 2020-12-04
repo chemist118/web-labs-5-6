@@ -78,7 +78,7 @@
 				if (good) {
 					this.dismissCountDown = 0;
 					this.dismissCountDownGood = this.dismissSecs;
-					this.textAlert = 'Task successfully added';
+					this.textAlert = 'Задача успешно добавлена';
 				}
 				else {
 					this.dismissCountDownGood = 0;

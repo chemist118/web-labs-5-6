@@ -19,7 +19,7 @@
             <TodoList
                     v-if="filteredTodos !== undefined && filteredTodos.length"
                     v-bind:todos="filteredTodos"/>
-            <p v-else>No tasks</p>
+            <p v-else>Нет задач</p>
         </div>
     </div>
 </template>

@@ -1,10 +1,10 @@
 <template>
     <div class="container">
         <div v-if="getUser" class="alert alert-info text-center">
-			Вы авторизованы
+			<h4>Вы авторизованы</h4>
         </div>
         <div v-else class="alert alert-info text-center">
-			Вы не авторизованы
+			<h4>Вы не авторизованы</h4>
         </div>
     </div>
 </template>
